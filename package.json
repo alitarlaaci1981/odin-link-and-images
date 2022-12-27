@@ -1,0 +1,19 @@
+{
+  "name": "computer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitarlaaci1981/odin-link-and-images.git"
+  },
+  "author": "ali tarlaci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alitarlaaci1981/odin-link-and-images/issues"
+  },
+  "homepage": "https://github.com/alitarlaaci1981/odin-link-and-images#readme"
+}
