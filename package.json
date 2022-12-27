@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alitarlaaci1981/odin-link-and-images/issues"
   },
-  "homepage": "https://github.com/alitarlaaci1981/odin-link-and-images#readme"
+  "homepage": "https://github.com/alitarlaaci1981/odin-link-and-images#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
 }
